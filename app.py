@@ -3,6 +3,10 @@ For Plolty dash.
 
 run with: $ python3 app.py
 
+$ mkdir viz; dc viz
+$ git clone https://github.com/lineality/plotly_dash_geomap_points_energy1.git
+$ cd plotly_dash_geomap_points_energy1
+
 Note:
 May need requirements.txt with package versions removed
 because that will install all newest versions.
